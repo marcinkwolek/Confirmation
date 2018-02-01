@@ -1,2 +1,3 @@
 # Confirmation
-Confirmation of sending the form
+Confirmation of sending the form 
+Responsive
